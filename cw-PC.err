@@ -1,0 +1,5 @@
+200716 21:33:53 [Note] Plugin 'FEDERATED' is disabled.
+200716 21:33:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
