@@ -3,3 +3,8 @@
 InnoDB: The error means that another program is using InnoDB's files.
 InnoDB: This might be a backup or antivirus software or another instance
 InnoDB: of MySQL. Please close it to get rid of this error.
+200730 17:35:05 [Note] Plugin 'FEDERATED' is disabled.
+200730 17:35:06  InnoDB: Started; log sequence number 0 183058
+200730 17:35:06 [Note] Event Scheduler: Loaded 0 events
+200730 17:35:06 [Note] mysqld.exe: ready for connections.
+Version: '5.1.36-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
